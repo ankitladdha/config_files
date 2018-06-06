@@ -1,2 +1,2 @@
-# ml_docker
-Docker file for my ML environment
+# Configuration Files
+Contains configration files for many of the tools I use for personal projects
